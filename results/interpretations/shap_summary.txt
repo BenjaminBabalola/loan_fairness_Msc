@@ -1,0 +1,16 @@
+SHAP Summary Plot Interpretation
+================================
+
+
+    SHAP SUMMARY PLOT - XGBoost
+    This plot shows the distribution of SHAP values for each feature. Each point represents a single prediction from the dataset.
+
+    Key insights:
+    - Features are ordered by importance (top to bottom)
+    - Color represents feature value (red = high, blue = low)
+    - Position on x-axis shows impact on prediction (right = higher probability of positive class)
+    - Wider distributions indicate more important features
+    
+
+Key values:
+- Top 5 features by importance: age, credit_history_critical/other existing credit, duration, credit_amount, checking_status_no checking

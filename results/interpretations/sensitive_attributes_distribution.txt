@@ -1,0 +1,18 @@
+SENSITIVE ATTRIBUTES DISTRIBUTION ANALYSIS
+==================================================
+
+Personal Status Distribution:
+- male single: 548 respondents (54.80%)
+- female div/dep/mar: 310 respondents (31.00%)
+- male mar/wid: 92 respondents (9.20%)
+- male div/sep: 50 respondents (5.00%)
+
+Age Group Distribution:
+- 26-35: 398 respondents (39.80%)
+- 36-50: 299 respondents (29.90%)
+- 18-25: 190 respondents (19.00%)
+- 50+: 113 respondents (11.30%)
+
+Summary:
+- The most common personal status is male single.
+- The largest age group represented is 26-35.

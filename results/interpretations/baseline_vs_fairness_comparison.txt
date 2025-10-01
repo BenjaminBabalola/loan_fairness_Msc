@@ -1,0 +1,19 @@
+Baseline vs Fairness Pipeline Comparison
+========================================
+
+
+BASELINE VS FAIRNESS PIPELINE COMPARISON
+This comparison shows the performance of models before and after applying the complete fairness pipeline.
+
+Key insights:
+- Accuracy and F1 score show model performance
+- Statistical Parity Difference (SPD) measures demographic parity (closer to 0 is better)
+- Equal Opportunity Difference (EOD) measures equality of true positive rates (closer to 0 is better)
+
+Positive improvement values indicate the fairness pipeline improved that metric.
+
+
+Key values:
+- Best accuracy improvement: 0.0250
+- Best SPD improvement: 0.0633
+- Best EOD improvement: 0.0476

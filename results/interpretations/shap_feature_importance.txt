@@ -1,0 +1,24 @@
+SHAP Feature Importance Interpretation
+======================================
+
+
+    SHAP FEATURE IMPORTANCE - XGBoost
+    This plot shows the mean absolute SHAP value for each feature, which represents overall feature importance.
+
+    Key insights:
+    - Features are ordered by importance (top to bottom)
+    - Bar length represents mean absolute impact on model output
+    - The most important features have the largest impact on predictions
+    
+
+Key values:
+- Feature 1: checking_status_no checking (importance: 0.8501)
+- Feature 2: credit_amount (importance: 0.7173)
+- Feature 3: duration (importance: 0.5165)
+- Feature 4: credit_history_critical/other existing credit (importance: 0.4234)
+- Feature 5: age (importance: 0.4171)
+- Feature 6: purpose_used car (importance: 0.3070)
+- Feature 7: purpose_new car (importance: 0.3030)
+- Feature 8: residence_since (importance: 0.2907)
+- Feature 9: installment_commitment (importance: 0.2857)
+- Feature 10: other_payment_plans_none (importance: 0.2763)
